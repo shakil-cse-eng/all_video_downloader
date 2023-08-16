@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="background_color" format="color"/>
+    <attr name="background_color2" format="color"/>
+    <attr name="background_color3" format="color"/>
+    <attr name="round_color" format="color"/>
+    <attr name="round_color2" format="color"/>
+    <attr name="splash_color" format="color"/>
+    <attr name="button_color" format="color"/>
+    <attr name="button_color2" format="color"/>
+    <attr name="button_color3" format="color"/>
+    <attr name="popup_background_color" format="color"/>
+    <attr name="deep_color" format="color"/>
+    <attr name="stroke_color" format="color"/>
+    <attr name="text_color" format="color"/>
+    <attr name="text_color2" format="color"/>
+    <attr name="sub_text_color" format="color"/>
+    <attr name="image_color" format="color"/>
+    <attr name="image_color2" format="color"/>
+</resources>

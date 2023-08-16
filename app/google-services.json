@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "328036569319",
+    "firebase_url": "https://android-project-478ab-default-rtdb.firebaseio.com",
+    "project_id": "android-project-478ab",
+    "storage_bucket": "android-project-478ab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:328036569319:android:a010fb493a33029a041242",
+        "android_client_info": {
+          "package_name": "com.project.allvideodownloader"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "328036569319-irocmamuhijr71jpnkqeunb1vtsc3ceb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.project.allvideodownloader",
+            "certificate_hash": "e602c11da0db6acf5dee12fb302b107bc6473c92"
+          }
+        },
+        {
+          "client_id": "328036569319-gnunikjk6u2fbsmss5trb4nnlinauv5i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9S_I7Eqn6iBsBgH4QpeXv51QF5dJRX7c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "328036569319-gnunikjk6u2fbsmss5trb4nnlinauv5i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
